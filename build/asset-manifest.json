@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0c1ae41.css",
+    "main.js": "/static/js/main.ca079c20.js",
+    "static/media/product_11.jpg": "/static/media/product_11.d5614627a232b36a109e.jpg",
+    "static/media/product_17.jpg": "/static/media/product_17.d5614627a232b36a109e.jpg",
+    "static/media/hero_img.png": "/static/media/hero_img.1c80d47fb0385db3d34e.png",
+    "static/media/offer_img.png": "/static/media/offer_img.160f389005b3a5a28e20.png",
+    "static/media/product_4.jpg": "/static/media/product_4.6b454a8515348c6a976b.jpg",
+    "static/media/product_10.jpg": "/static/media/product_10.a05d59f2aea1b8f4ffa8.jpg",
+    "static/media/product_16.jpg": "/static/media/product_16.a05d59f2aea1b8f4ffa8.jpg",
+    "static/media/delivery.jpg": "/static/media/delivery.22da5a1039fe38103472.jpg",
+    "static/media/Logo.jpeg": "/static/media/Logo.1d1f04335a419021841e.jpeg",
+    "static/media/product_3.jpg": "/static/media/product_3.8ee2d5f634e44c4f9a7c.jpg",
+    "static/media/product_13.jpg": "/static/media/product_13.2337045d66e10cc337db.jpg",
+    "static/media/product_14.jpg": "/static/media/product_14.2337045d66e10cc337db.jpg",
+    "static/media/product_6.jpg": "/static/media/product_6.2337045d66e10cc337db.jpg",
+    "static/media/product_7.jpg": "/static/media/product_7.2337045d66e10cc337db.jpg",
+    "static/media/product_8.jpg": "/static/media/product_8.89137618889b57352e83.jpg",
+    "static/media/product_12.jpg": "/static/media/product_12.5baaf266fa35fa5ffe5f.jpg",
+    "static/media/product_5.jpg": "/static/media/product_5.5baaf266fa35fa5ffe5f.jpg",
+    "static/media/product_1.jpg": "/static/media/product_1.d7368bcfef3f703a71ed.jpg",
+    "static/media/product_15.jpg": "/static/media/product_15.31ebc4b095c6a23e11ca.jpg",
+    "static/media/stock.jpg": "/static/media/stock.54e74939ede32d38aa24.jpg",
+    "static/media/hand_icon.png": "/static/media/hand_icon.9c7487cecb600f30901b.png",
+    "static/media/product_9.jpg": "/static/media/product_9.afc44c6139beefb3c3f8.jpg",
+    "static/media/configured.jpg": "/static/media/configured.bc6759c158754fbd57fd.jpg",
+    "static/media/product_2.jpg": "/static/media/product_2.dba71ce8e1e2aadd386d.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.9acff389572234e1fd6ebcc3e7b29e34.svg",
+    "main.c0c1ae41.css.map": "/static/css/main.c0c1ae41.css.map",
+    "main.ca079c20.js.map": "/static/js/main.ca079c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c1ae41.css",
+    "static/js/main.ca079c20.js"
+  ]
+}
